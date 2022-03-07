@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/04 17:12:46.000.712,=C:\Users\elivelton.oliveira.ZION\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/04 17:13:12.000.391,D:\Delphixe10\Prova\ProvaTecnica.pas=C:\Users\elivelton.oliveira.ZION\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/04 17:13:12.000.391,D:\Delphixe10\Prova\ProvaTecnica.dfm=C:\Users\elivelton.oliveira.ZION\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/03/04 17:13:43.000.321,C:\Users\elivelton.oliveira.ZION\Documents\Embarcadero\Studio\Projects\prjProvaTecnica.dproj=C:\Users\elivelton.oliveira.ZION\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/03/04 17:13:49.000.279,D:\Delphixe10\Prova\prjProvaTecnica.dproj=C:\Users\elivelton.oliveira.ZION\Documents\Embarcadero\Studio\Projects\prjProvaTecnica.dproj</Transaction>
+    <Transaction>2022/03/04 17:16:48.000.555,=D:\Delphixe10\Prova\Unit1.pas</Transaction>
+    <Transaction>2022/03/04 17:17:15.000.056,D:\Delphixe10\Prova\Unit1.pas=D:\Delphixe10\Prova\untCadProduto.pas</Transaction>
+    <Transaction>2022/03/04 17:17:15.000.056,D:\Delphixe10\Prova\Unit1.dfm=D:\Delphixe10\Prova\untCadProduto.dfm</Transaction>
+    <Transaction>2022/03/04 17:17:59.000.759,=D:\Delphixe10\Prova\Unit1.pas</Transaction>
+    <Transaction>2022/03/04 17:18:36.000.066,D:\Delphixe10\Prova\Unit1.pas=D:\Delphixe10\Prova\untModule.pas</Transaction>
+    <Transaction>2022/03/04 17:18:36.000.066,D:\Delphixe10\Prova\Unit1.dfm=D:\Delphixe10\Prova\untModule.dfm</Transaction>
+    <Transaction>2022/03/06 14:46:44.486,=D:\Delphixe10\Prova\Unit1.pas</Transaction>
+    <Transaction>2022/03/06 14:53:53.701,D:\Delphixe10\Prova\untPedido.dfm=D:\Delphixe10\Prova\Unit1.dfm</Transaction>
+    <Transaction>2022/03/06 14:53:53.701,D:\Delphixe10\Prova\untPedido.pas=D:\Delphixe10\Prova\Unit1.pas</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="untCadProduto.pas"/>
+    <File Path="untCadProduto.dfm"/>
+    <File Path="ProvaTecnica.pas"/>
+    <File Path="ProvaTecnica.dfm"/>
+    <File Path="untModule.pas"/>
+    <File Path="untModule.dfm"/>
+    <File Path="untPedido.pas"/>
+    <File Path="untPedido.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
